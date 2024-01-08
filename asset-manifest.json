@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/avtoproverka_1week/static/css/main.073c9b0a.css",
-    "main.js": "/avtoproverka_1week/static/js/main.065467c9.js",
+    "main.js": "/avtoproverka_1week/static/js/main.5734d0be.js",
     "static/js/787.177e23c2.chunk.js": "/avtoproverka_1week/static/js/787.177e23c2.chunk.js",
     "index.html": "/avtoproverka_1week/index.html",
     "main.073c9b0a.css.map": "/avtoproverka_1week/static/css/main.073c9b0a.css.map",
-    "main.065467c9.js.map": "/avtoproverka_1week/static/js/main.065467c9.js.map",
+    "main.5734d0be.js.map": "/avtoproverka_1week/static/js/main.5734d0be.js.map",
     "787.177e23c2.chunk.js.map": "/avtoproverka_1week/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.065467c9.js"
+    "static/js/main.5734d0be.js"
   ]
 }
